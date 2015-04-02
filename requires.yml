@@ -1,0 +1,6 @@
+# A list of javascript files required for the project, in dependency order
+javascripts:
+  files:
+    - lib/js_10_green_bottles_procedural.js
+  specs:
+    - spec/js_10_green_bottles_procedural.spec.js
