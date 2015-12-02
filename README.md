@@ -19,3 +19,5 @@ Basically do not employ the use of javascript objects to solve this problem (eve
 ## Instructions
 Write a `song` function expression that takes in a number argument called `numberOfBottles` and prints the correct number of verses/standazas for the given `numberOfBottles`
 
+
+<a href='https://learn.co/lessons/js-10-green-bottles-procedural' data-visibility='hidden'>View this lesson on Learn.co</a>
